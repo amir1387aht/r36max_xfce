@@ -343,11 +343,11 @@ ssh ark@192.168.137.2
 Once connected:
 
 ```bash
-cp /roms/tools/StartUSBWiFi.sh ~/
+cp /roms/tools/StartUSBWiFi.sh ~/wifi_ssh_service
 ```
 
 This copies the script into **fs_root (home directory)**.
-Also do this for ``` Launch-XFCE.sh ``` and ``` Install-XFCE.sh ``` from your computer to console using scp
+Also do this for ``` Launch-XFCE.sh ``` and ``` Install-XFCE.sh ``` from your computer to console using scp in ~\Ixfce folder
 
 ---
 
