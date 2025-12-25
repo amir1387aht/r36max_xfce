@@ -190,7 +190,7 @@ ping google.com
 
 2. Type:
 
-   ncpa.cpl
+   ``` ncpa.cpl ```
 
 3. Press Enter
 
@@ -347,6 +347,7 @@ cp /roms/tools/StartUSBWiFi.sh ~/
 ```
 
 This copies the script into **fs_root (home directory)**.
+Also do this for ``` Launch-XFCE.sh ``` and ``` Install-XFCE.sh ``` from your computer to console using scp
 
 ---
 
