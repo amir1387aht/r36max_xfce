@@ -671,7 +671,7 @@ sudo apt install joystick
 3. Run joystick configuration commands
 
 > 📌 **Configuring Joysticks**
-Run ``` jstest /dev/input/js0 ``` And follow the questions
+Run ``` jstest /dev/input/js0 ``` And follow the questions,
 After finishing run ``` sudo jscal-store /dev/input/js0 ```
 To save it permanently
 
