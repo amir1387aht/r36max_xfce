@@ -347,7 +347,7 @@ cp /roms/tools/StartUSBWiFi.sh ~/wifi_ssh_service
 ```
 
 This copies the script into **fs_root (home directory)**.
-Also do this for ``` Launch-XFCE.sh ``` and ``` Install-XFCE.sh ``` from your computer to console using scp in ``` ~\Ixfce ``` folder
+Also do this for ``` Launch-XFCE.sh ``` and ``` Install-XFCE.sh ``` and ``` files ``` folder from your computer to console using scp in ``` ~\Ixfce ``` folder
 
 ---
 
