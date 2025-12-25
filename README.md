@@ -710,6 +710,6 @@ To save it permanently
 
 ---
 
-## 📌 Known Bugs
+## 🕷 Known Bugs
 
 * XFCE Closes after a while automatilly for unknown reason, Its currently temporary fixed in ``` Launch-XFCE.sh ```, No need to do anything
