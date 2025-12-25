@@ -7,7 +7,7 @@ using **OTG → WiFi**, **SSH**, and **QJoyPad**.
 > - **DO NOT use the original SD card**
 > - Use **only a secondary SD card**
 > - Follow steps in order
-
+> - Installing Arkos on r36max: https://youtu.be/DJipgvK5KkM?si=C3k7taw7BrdpBAeX
 ---
 
 ## 📦 Requirements
